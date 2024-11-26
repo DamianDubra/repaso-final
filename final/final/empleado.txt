@@ -1,0 +1,6 @@
+15;george;ventas;900;m
+15;george;ventas;900;h
+15;george;ventas;10000;m
+15;george;admin;900;m
+15;george;admin;900;m
+15;george;gerente;900;h

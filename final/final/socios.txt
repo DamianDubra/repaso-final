@@ -1,0 +1,9 @@
+15;dubra;damian;20;h;70
+5;perez;damian;20;h;50
+32;Gomez;damian;20;M;90
+3;Manzano;damian;22;h;45
+30;Gonzalez;damian;22;M;110
+92;jorge;damian;22;h;85
+10;martinez;damian;30;h;115
+17;HAmilton;damian;30;m;45
+80;martinez;damian;30;m;55

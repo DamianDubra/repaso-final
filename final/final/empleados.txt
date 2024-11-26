@@ -1,0 +1,10 @@
+15;dubra;administracion;5000
+20;perez;administracion;20000
+10;gomez;administracion;3000
+99;dubra;web;5000
+80;mirta;web;90000
+36;aaaa;web;3000
+39;aaaa;ventas;500
+45;adada;ventas;400
+55;kljlkj;ventas;900
+55;kljlkj;ventas;900
