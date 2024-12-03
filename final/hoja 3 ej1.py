@@ -1,5 +1,5 @@
 # hacer todos los proceimientos de colas con 10 elemententos y un programa que los use
-elementos=10
+elementos=11
 #lo podria poner con un imput
 class Tcolas:
     frente=0

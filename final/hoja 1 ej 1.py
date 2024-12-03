@@ -44,22 +44,16 @@ f_inicializar(pila)
 cargardatos=input('desea cargar datos?')
 while cargardatos!='no':
     dato=int(input('ingrese el numero'))
-    if pilallena(pila)==False:
-        meter(pila,dato)
-        cargardatos=input('cargar otro?')
-    else:
-        print('la pila esta llena')
-        cargardatos='no'
+    
+    meter(pila,dato)
+    cargardatos=input('cargar otro?')
+
 
 eliminardatos=input('desea eliminar un dato?')
 
 while eliminardatos!='no':
-    if pilavacia(pila)==False:
-        quitar(pila)
-        eliminardatos=input('eliminar otro')
-    else:
-        print('la pila etsa vacia')
-        eliminardatos='no'
+    quitar(pila)
+    eliminardatos=input('eliminar otro')
 
 for c in range(0,pila.cima+1):
     print(pila.dato[c])

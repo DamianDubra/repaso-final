@@ -1,7 +1,5 @@
 #procedimientos con uno de tamano 10 y un programa
-
-velementos=10
-
+velementos=11
 class Tcola:
     frente=0
     final=0

@@ -9,6 +9,7 @@ def busquedabin(matriz,elemento):
     vsenal=0
     vinicial=0
     vfinal=29
+    
     posicion=-1
     while vsenal==0 and elemento<=matriz[0][vfinal] and elemento>=matriz[0][vinicial]:
         vcentral=(vinicial+vfinal)//2

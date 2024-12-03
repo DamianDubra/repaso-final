@@ -1,5 +1,5 @@
 #realizar procedimientos de colas con 10 enteros y un programa
-elementos=10
+elementos=11
 class tcola:
     frente=0
     final=0

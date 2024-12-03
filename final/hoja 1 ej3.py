@@ -39,5 +39,5 @@ while vregistro!='':
     print('la cnatidad de hombres con edad',vedad,'es',hombres,'el peso promedio',promediohom)
     print('la cnatidad de mujeres con edad',vedad,'es',mujer,'el peso promedio',promediomuj)
     print('el legajo', vauxilegajo,'apellido: ',vapellidoauxi)
-    varchivo.close()
+varchivo.close()
     
